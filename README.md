@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**aayushjoshi992/aayushjoshi992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Goals
+- Master Python programming
+- Build real-world projects
+- Learn Data Structures & Algorithms
+- Explore Web Development
 
-Here are some ideas to get you started:
+## Projects
+Here are some of my projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Pharmacy Inventory System
+A simple inventory management system built using Python.
+
+### AI Subscription management System
+A project to manage ai subscriptions using Java and OOP concepts.
+
+### More Projects Coming Soon...
+Stay tuned!
+
+## Connect With Me
+- GitHub: https://github.com/aayushjoshi992
+
+---
+⭐ Feel free to explore my repositories and leave a star if you find something useful!
